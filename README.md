@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=duarte-arthur21&show_icons=true&theme=gruvbox)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-arthur21)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que uso no meu dia:
 <div style="display:inline_block"></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
