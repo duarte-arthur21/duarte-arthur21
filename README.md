@@ -8,8 +8,7 @@
 # Sobre mim
 Cursando sexto semestre de Tecnologia em Sistemas para Internet, Técnico de Informática, 
 bolsista de cooperação técnica da Fundação de Amparo à Ciência e Tecnologia de Pernambuco (FACEPE), desde maio de 2019. 
-Quatro meses de estágio na Re9 Agência, onde foram adquiridas habilidades como trabalho em equipe, proatividade 
-e organização.
+
 🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor FullStack!
 ```
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=duarte-arthur21&show_icons=true&theme=gruvbox) 
