@@ -6,10 +6,10 @@
 
 ```bash
 # Sobre mim
-Cursando sexto semestre de Tecnologia em Sistemas para Internet, Técnico de Informática, 
+Graduado como Tecnologo em Sistemas para Internet e Técnico de Informática, 
 bolsista de cooperação técnica da Fundação de Amparo à Ciência e Tecnologia de Pernambuco (FACEPE), desde maio de 2019. 
 
-🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor FullStack!
+🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Front-End!
 ```
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=duarte-arthur21&show_icons=true&theme=gruvbox) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-arthur21)](https://github.com/duarte-arthur21/github-readme-stats)
