@@ -7,7 +7,7 @@
 ```bash
 # Sobre mim
 Graduado como Tecnologo em Sistemas para Internet e Técnico de Informática, 
-bolsista de cooperação técnica da Fundação de Amparo à Ciência e Tecnologia de Pernambuco (FACEPE), desde maio de 2019. 
+pelo Instituto Federal do Sertão Pernambucano. 
 
 🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Front-End!
 ```
@@ -49,14 +49,14 @@ Programa Institucional de Formação | NOVEMBRO DE 2022 - ATÉ O MOMENTO
     organização de processos internos, economizando tempo e reduzindo custos
     
 ### Desenvolvimento de soluções Web para empresas de comércio e serviços no Sertão Pernambucano
-Programa Institucional de Bolsas de Extensão | NOVEMBRO DE 2022 - MARLO DE 2023
+Programa Institucional de Bolsas de Extensão | NOVEMBRO DE 2022 - MARÇO DE 2023
 -	O projeto tem por objetivo qualificar recursos humanos em nível de graduação na região
     do Sertão Central de Estado de Pernambuco, no que concerne à habilidade de desenvolver
     soluções web, com tecnologias e técnicas atuais, para auxiliar na divulgação de empresas e na
     organização de processos internos, economizando tempo e reduzindo custos
 
 ### Utilizando o Spring Framework para o desenvolvimento do Sistema de Agendamento de Visitas do Museu de Ciência Professor Antônio Carneiro
-Trabalho de Conclcusão de Curso | ABRIL DE 2022 - ATÉ O MOMENTO
+Trabalho de Conclcusão de Curso | ABRIL DE 2022 - JUNHO DE 2023
 -	O Projeto propõe-se a realizar um estudo de caso a partir do uso das tecnologias Spring Boot, Bootstrap e Thymeleaf, 
     para a construção de uma aplicação web funcional que possa realizar o agendamento dessas visitas e exposições, 
     aumentando assim a eficiência do processo, e permitindo analisar de perto o uso de tais tecnologias em uma demanda real.
