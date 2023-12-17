@@ -1,4 +1,4 @@
-### Olá eu sou o Arthur Duarte! 👋
+# Olá eu sou o Arthur Duarte! 👋
 
 ## conecte-se comigo! 👉👈
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duarte_arthur21/)
