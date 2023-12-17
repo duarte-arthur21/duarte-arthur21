@@ -12,7 +12,7 @@ pelo Instituto Federal do Sertão Pernambucano.
 🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Front-End!
 ```
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=duarte-arthur21&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-arthur21)](https://github.com/duarte-arthur21/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duarte-arthur21&bg_color=000&border_color=30A3DC&&text_color=FFF&hide_title=true)
 
 ## Tecnologias que uso no meu dia:
 <div style="display:inline_block"></br>
@@ -31,13 +31,14 @@ pelo Instituto Federal do Sertão Pernambucano.
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!!!👊🧑‍💻📚
 
-## Minha formação:
+## Minhas Contribuições
 
-- Tecnologo em Sistemas para Internet | IFSPE – Instituto Federal de Educação,
-Ciência e Tecnologia do Sertão Pernambucano
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=duarte-arthur21&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/duarte-arthur21/dio-lab-open-source)
 
-- Técnico de Informática | IFSPE – Instituto Federal de Educação, Ciência e
-Tecnologia do Sertão Pernambucano
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=duarte-arthur21&repo=TodoList&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/duarte-arthur21/TodoList)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=duarte-arthur21&repo=Sites_Economicos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/duarte-arthur21/Sites_Economicos)
+
 
 ## Experiência:
 
