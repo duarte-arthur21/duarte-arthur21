@@ -9,7 +9,8 @@
 ```bash
 # Sobre mim
 Graduado como Tecnologo em Sistemas para Internet e Técnico de Informática, 
-pelo Instituto Federal do Sertão Pernambucano. 
+pelo Instituto Federal do Sertão Pernambucano.
+pós-graduado em tecnologia da informação pela Faculdade Iguaçu/Univitória
 
 🧑‍💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Front-End!
 ```
